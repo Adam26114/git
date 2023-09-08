@@ -1,0 +1,42 @@
+=>Alias
+
+git status
+git config --global alias.st "status"
+git st
+git status
+git config --gloval alias.st
+
+
+git branch
+git config --gobal alias.cm "branch
+git cm
+git commit
+git connfig --global alias.cm
+
+=> in gittubleson4
+git st
+git cm -m "A file3"
+git push -u origin main
+
+git commit -m ""
+git config --gobal alias.cmt "branch
+git cm
+git commit
+git connfig --global alias.cmt
+
+
+
+git st
+git add *
+git cm -m "A file4"
+git st
+
+git st
+git add *
+git cm -m "A file4"
+git st
+
+git push -u origin main
+
+
+30AL
